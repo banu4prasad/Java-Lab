@@ -6,6 +6,7 @@ Object oriented programming (Java).
 1. Using Termial:
    <br>
    javac "Filename.java"
+   <br>
    java Filename
 
 2. Using VS code
